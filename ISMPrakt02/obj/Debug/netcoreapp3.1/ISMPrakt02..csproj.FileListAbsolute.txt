@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\LinearExpressions\ISMPrakt02\bin\Debug\netcoreapp3.1\ISMPrakt02..exe
+C:\Users\user\source\repos\LinearExpressions\ISMPrakt02\bin\Debug\netcoreapp3.1\ISMPrakt02..deps.json
+C:\Users\user\source\repos\LinearExpressions\ISMPrakt02\bin\Debug\netcoreapp3.1\ISMPrakt02..runtimeconfig.json
+C:\Users\user\source\repos\LinearExpressions\ISMPrakt02\bin\Debug\netcoreapp3.1\ISMPrakt02..runtimeconfig.dev.json
+C:\Users\user\source\repos\LinearExpressions\ISMPrakt02\bin\Debug\netcoreapp3.1\ISMPrakt02..dll
+C:\Users\user\source\repos\LinearExpressions\ISMPrakt02\bin\Debug\netcoreapp3.1\ISMPrakt02..pdb
+C:\Users\user\source\repos\LinearExpressions\ISMPrakt02\obj\Debug\netcoreapp3.1\ISMPrakt02..csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LinearExpressions\ISMPrakt02\obj\Debug\netcoreapp3.1\ISMPrakt02..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LinearExpressions\ISMPrakt02\obj\Debug\netcoreapp3.1\ISMPrakt02..AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LinearExpressions\ISMPrakt02\obj\Debug\netcoreapp3.1\ISMPrakt02..AssemblyInfo.cs
+C:\Users\user\source\repos\LinearExpressions\ISMPrakt02\obj\Debug\netcoreapp3.1\ISMPrakt02..csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LinearExpressions\ISMPrakt02\obj\Debug\netcoreapp3.1\ISMPrakt02..dll
+C:\Users\user\source\repos\LinearExpressions\ISMPrakt02\obj\Debug\netcoreapp3.1\ISMPrakt02..pdb
+C:\Users\user\source\repos\LinearExpressions\ISMPrakt02\obj\Debug\netcoreapp3.1\ISMPrakt02..genruntimeconfig.cache
